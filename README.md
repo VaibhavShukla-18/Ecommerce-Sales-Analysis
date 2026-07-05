@@ -141,6 +141,4 @@ The generated charts are automatically saved inside the **visualizations** folde
 
 **Vaibhav Shukla**
 
-MCA Student (IGNOU)
-
 Python | Data Analytics | Machine Learning Enthusiast
